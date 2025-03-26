@@ -11,5 +11,17 @@ https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html
 
 ervice now, collibra, clearpass and get certified and focus your efforts on getting to expert level.
 
-file:///C:/Users/Malachi/Documents/beginners_python_cheat_sheet_pcc_all.pdf
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+The fundamentals of programming.
+Object-oriented design principles such as encapsulation, abstraction, polymorphism, and inheritance.
+
+Data structures such as lists, stacks, queues, trees, and hashmaps.
+
+Algorithms such as AVL, MST, Dijkstra’s, and dynamic programming.
+
+Introduction to Python Programming, using the same material as CS1301: Introduction to Computing at Georgia Tech.
+
+Introduction to Object-Oriented Programming with Java, using the same material as CS1331: Introduction to Object-Oriented Programming at Georgia Tech.
+
+Data Structures & Algorithms, using the same material as CS1332: Data Structures & Algorithms at Georgia Tech.
